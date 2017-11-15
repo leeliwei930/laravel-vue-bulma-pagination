@@ -1,6 +1,6 @@
 {
   "name": "laravel-vue-bulma-pagination",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue.js pagination component for Laravel pagination with Bulma styles",
   "main": "pagination.vue",
   "scripts": {
